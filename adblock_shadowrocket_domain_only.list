@@ -1,7 +1,7 @@
 # NAME: Johnshall AdBlock Domain Only
 # FORMAT: Shadowrocket RULE-SET list
 # SOURCE: https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_ad_only.conf
-# UPDATED: 2026-07-16 04:27:07 UTC
+# UPDATED: 2026-07-17 04:26:21 UTC
 # TOTAL: 56386
 
 DOMAIN-SUFFIX,ad.12306.cn
